@@ -1,8 +1,6 @@
 # Hr-Data-Analytics-Dashboard
 
-<img width="1294" height="683" alt="Screenshot 2026-04-09 152303" src="https://github.com/user-attachments/assets/db3247a9-5347-4f34-92c3-4282c265f38f" />
-
-## 📌 Project Overview
+📌 Project Overview
 
 This project explores workforce attrition data to help HR teams make **data-driven decisions**. The dashboard answers critical business questions like — *Why are employees leaving? Which departments are most affected? What age groups have the highest attrition?*
 
@@ -134,6 +132,8 @@ HR-Analytics-Dashboard/
 3. Run `hr_queries.sql` in PostgreSQL to explore queries
 4. Open `HR_Analytics_Dashboard.pbix` in **Power BI Desktop**
 5. Refresh data source if needed and explore the dashboard
+
+<img width="1294" height="683" alt="Screenshot 2026-04-09 152303" src="https://github.com/user-attachments/assets/db3247a9-5347-4f34-92c3-4282c265f38f" />
 
 ---
 
